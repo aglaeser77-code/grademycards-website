@@ -1,0 +1,201 @@
+{
+  "schema": 1,
+  "updated": "2026-08-28",
+  "channel": "https://www.youtube.com/@grademycards",
+  "groups": [
+    {
+      "id": "getting_started",
+      "order": 10,
+      "title": {
+        "en": "Getting Started",
+        "de": "Erste Schritte",
+        "es": "Primeros pasos",
+        "fr": "Premiers pas",
+        "it": "Per iniziare",
+        "ja": "はじめに",
+        "nl": "Aan de slag",
+        "pt": "Primeiros passos"
+      }
+    },
+    {
+      "id": "howto",
+      "order": 20,
+      "title": {
+        "en": "How to",
+        "de": "Anleitungen",
+        "es": "Cómo se hace",
+        "fr": "Comment faire",
+        "it": "Come fare",
+        "ja": "使い方",
+        "nl": "Zo doe je dat",
+        "pt": "Como fazer"
+      }
+    },
+    {
+      "id": "best_results",
+      "order": 30,
+      "title": {
+        "en": "Getting Better Results",
+        "de": "Bessere Ergebnisse",
+        "es": "Mejores resultados",
+        "fr": "De meilleurs résultats",
+        "it": "Risultati migliori",
+        "ja": "より良い結果を得る",
+        "nl": "Betere resultaten",
+        "pt": "Melhores resultados"
+      }
+    },
+    {
+      "id": "grading",
+      "order": 40,
+      "title": {
+        "en": "Grading / Case Studies",
+        "de": "Grading / Fallbeispiele",
+        "es": "Grading / Casos prácticos",
+        "fr": "Grading / Études de cas",
+        "it": "Grading / Casi di studio",
+        "ja": "グレーディング／実例",
+        "nl": "Grading / Praktijkvoorbeelden",
+        "pt": "Grading / Estudos de caso"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": "howto_define_card_rect",
+      "group": "howto",
+      "phases": [1],
+      "order": 10,
+      "url": "",
+      "title": {
+        "en": "How to: Define a Card Rect",
+        "de": "How to: Kartenrechteck definieren",
+        "es": "How to: Definir el rectángulo de la carta",
+        "fr": "How to: Définir le rectangle de la carte",
+        "it": "How to: Definire il rettangolo della carta",
+        "ja": "How to: カード矩形を定義する",
+        "nl": "How to: Kaartrechthoek bepalen",
+        "pt": "How to: Definir o retângulo da carta"
+      }
+    },
+    {
+      "id": "howto_adjust_card_rect",
+      "group": "howto",
+      "phases": [1],
+      "order": 20,
+      "url": "",
+      "title": {
+        "en": "How to: Adjust a Card Rect",
+        "de": "How to: Kartenrechteck anpassen",
+        "es": "How to: Ajustar el rectángulo de la carta",
+        "fr": "How to: Ajuster le rectangle de la carte",
+        "it": "How to: Regolare il rettangolo della carta",
+        "ja": "How to: カード矩形を調整する",
+        "nl": "How to: Kaartrechthoek aanpassen",
+        "pt": "How to: Ajustar o retângulo da carta"
+      }
+    },
+    {
+      "id": "howto_define_border",
+      "group": "howto",
+      "phases": [1, 2],
+      "order": 30,
+      "url": "",
+      "title": {
+        "en": "How to: Define the Border",
+        "de": "How to: Rahmen definieren",
+        "es": "How to: Definir el borde",
+        "fr": "How to: Définir le cadre",
+        "it": "How to: Definire il bordo",
+        "ja": "How to: ボーダーを定義する",
+        "nl": "How to: Rand bepalen",
+        "pt": "How to: Definir a borda"
+      }
+    },
+    {
+      "id": "howto_adjust_border",
+      "group": "howto",
+      "phases": [1, 2],
+      "order": 40,
+      "url": "",
+      "title": {
+        "en": "How to: Adjust the Border",
+        "de": "How to: Rahmen anpassen",
+        "es": "How to: Ajustar el borde",
+        "fr": "How to: Ajuster le cadre",
+        "it": "How to: Regolare il bordo",
+        "ja": "How to: ボーダーを調整する",
+        "nl": "How to: Rand aanpassen",
+        "pt": "How to: Ajustar a borda"
+      }
+    },
+    {
+      "id": "howto_lens_correction",
+      "group": "howto",
+      "phases": [1],
+      "order": 50,
+      "url": "",
+      "title": {
+        "en": "How to: Use Lens Correction",
+        "de": "How to: Linsenkorrektur verwenden",
+        "es": "How to: Usar la corrección de lente",
+        "fr": "How to: Utiliser la correction d'objectif",
+        "it": "How to: Usare la correzione dell'obiettivo",
+        "ja": "How to: レンズ補正を使う",
+        "nl": "How to: Lenscorrectie gebruiken",
+        "pt": "How to: Usar a correção de lente"
+      }
+    },
+    {
+      "id": "howto_card_curvature",
+      "group": "howto",
+      "phases": [1],
+      "order": 60,
+      "url": "",
+      "title": {
+        "en": "How to: Correct Card Curvature",
+        "de": "How to: Kartenwölbung korrigieren",
+        "es": "How to: Corregir la curvatura de la carta",
+        "fr": "How to: Corriger la courbure de la carte",
+        "it": "How to: Correggere la curvatura della carta",
+        "ja": "How to: カードの反りを補正する",
+        "nl": "How to: Kaartkromming corrigeren",
+        "pt": "How to: Corrigir a curvatura da carta"
+      }
+    },
+    {
+      "id": "howto_four_corner_mode",
+      "group": "howto",
+      "phases": [1],
+      "order": 70,
+      "url": "",
+      "title": {
+        "en": "How to: Use 4 Corner Mode",
+        "de": "How to: 4-Ecken-Modus verwenden",
+        "es": "How to: Usar el modo de 4 esquinas",
+        "fr": "How to: Utiliser le mode 4 coins",
+        "it": "How to: Usare la modalità 4 angoli",
+        "ja": "How to: 4コーナーモードを使う",
+        "nl": "How to: 4-hoekenmodus gebruiken",
+        "pt": "How to: Usar o modo de 4 cantos"
+      }
+    },
+    {
+      "id": "howto_card_template",
+      "group": "howto",
+      "phases": [1],
+      "order": 80,
+      "url": "",
+      "title": {
+        "en": "How to: Create a Card Template",
+        "de": "How to: Kartenvorlage erstellen",
+        "es": "How to: Crear una plantilla de carta",
+        "fr": "How to: Créer un modèle de carte",
+        "it": "How to: Creare un modello di carta",
+        "ja": "How to: カードテンプレートを作成する",
+        "nl": "How to: Kaartsjabloon maken",
+        "pt": "How to: Criar um modelo de carta"
+      }
+    }
+  ]
+}
