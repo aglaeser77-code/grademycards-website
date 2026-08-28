@@ -62,139 +62,234 @@
   ],
   "videos": [
     {
-      "id": "howto_define_card_rect",
+      "id": "howto_create_new_card",
       "group": "howto",
-      "phases": [1],
+      "phases": [
+        1
+      ],
       "order": 10,
-      "url": "",
+      "url": "https://www.youtube.com/shorts/Q4jBpZWdyKU",
       "title": {
-        "en": "How to: Define a Card Rect",
-        "de": "How to: Kartenrechteck definieren",
-        "es": "How to: Definir el rectángulo de la carta",
-        "fr": "How to: Définir le rectangle de la carte",
-        "it": "How to: Definire il rettangolo della carta",
-        "ja": "How to: カード矩形を定義する",
-        "nl": "How to: Kaartrechthoek bepalen",
-        "pt": "How to: Definir o retângulo da carta"
+        "en": "Create a New Card",
+        "de": "Neue Karte anlegen",
+        "es": "Crear una carta nueva",
+        "fr": "Créer une nouvelle carte",
+        "it": "Creare una nuova carta",
+        "ja": "新しいカードを作成する",
+        "nl": "Een nieuwe kaart aanmaken",
+        "pt": "Criar uma nova carta"
+      }
+    },
+    {
+      "id": "howto_set_card_rect",
+      "group": "howto",
+      "phases": [
+        1
+      ],
+      "order": 20,
+      "url": "https://www.youtube.com/shorts/eobLWmFWRDs",
+      "title": {
+        "en": "Set the Card Rectangle",
+        "de": "Kartenrechteck setzen",
+        "es": "Definir el rectángulo de carta",
+        "fr": "Définir le rectangle de carte",
+        "it": "Impostare il rettangolo della carta",
+        "ja": "カード矩形を設定する",
+        "nl": "Kaartrechthoek instellen",
+        "pt": "Definir o retângulo da carta"
       }
     },
     {
       "id": "howto_adjust_card_rect",
       "group": "howto",
-      "phases": [1],
-      "order": 20,
-      "url": "",
-      "title": {
-        "en": "How to: Adjust a Card Rect",
-        "de": "How to: Kartenrechteck anpassen",
-        "es": "How to: Ajustar el rectángulo de la carta",
-        "fr": "How to: Ajuster le rectangle de la carte",
-        "it": "How to: Regolare il rettangolo della carta",
-        "ja": "How to: カード矩形を調整する",
-        "nl": "How to: Kaartrechthoek aanpassen",
-        "pt": "How to: Ajustar o retângulo da carta"
-      }
-    },
-    {
-      "id": "howto_define_border",
-      "group": "howto",
-      "phases": [1, 2],
+      "phases": [
+        1
+      ],
       "order": 30,
       "url": "",
       "title": {
-        "en": "How to: Define the Border",
-        "de": "How to: Rahmen definieren",
-        "es": "How to: Definir el borde",
-        "fr": "How to: Définir le cadre",
-        "it": "How to: Definire il bordo",
-        "ja": "How to: ボーダーを定義する",
-        "nl": "How to: Rand bepalen",
-        "pt": "How to: Definir a borda"
+        "en": "Adjust the Card Rectangle",
+        "de": "Kartenrechteck anpassen",
+        "es": "Ajustar el rectángulo de carta",
+        "fr": "Ajuster le rectangle de carte",
+        "it": "Regolare il rettangolo della carta",
+        "ja": "カード矩形を調整する",
+        "nl": "Kaartrechthoek aanpassen",
+        "pt": "Ajustar o retângulo da carta"
       }
     },
     {
-      "id": "howto_adjust_border",
+      "id": "howto_rotate_card",
       "group": "howto",
-      "phases": [1, 2],
+      "phases": [
+        1
+      ],
       "order": 40,
-      "url": "",
+      "url": "https://www.youtube.com/shorts/qBTrCVNPpXE",
       "title": {
-        "en": "How to: Adjust the Border",
-        "de": "How to: Rahmen anpassen",
-        "es": "How to: Ajustar el borde",
-        "fr": "How to: Ajuster le cadre",
-        "it": "How to: Regolare il bordo",
-        "ja": "How to: ボーダーを調整する",
-        "nl": "How to: Rand aanpassen",
-        "pt": "How to: Ajustar a borda"
+        "en": "Rotate a Card",
+        "de": "Karte drehen",
+        "es": "Girar una carta",
+        "fr": "Faire pivoter une carte",
+        "it": "Ruotare una carta",
+        "ja": "カードを回転させる",
+        "nl": "Een kaart draaien",
+        "pt": "Girar uma carta"
+      }
+    },
+    {
+      "id": "howto_fine_adjust",
+      "group": "howto",
+      "phases": [
+        1
+      ],
+      "order": 50,
+      "url": "https://www.youtube.com/shorts/7jxIGb6uqSk",
+      "title": {
+        "en": "Use Fine Adjustment",
+        "de": "Feineinstellung verwenden",
+        "es": "Usar el ajuste fino",
+        "fr": "Utiliser l'ajustement fin",
+        "it": "Usare la regolazione fine",
+        "ja": "微調整を使う",
+        "nl": "Fijnafstelling gebruiken",
+        "pt": "Usar o ajuste fino"
       }
     },
     {
       "id": "howto_lens_correction",
       "group": "howto",
-      "phases": [1],
-      "order": 50,
-      "url": "",
+      "phases": [
+        1
+      ],
+      "order": 60,
+      "url": "https://www.youtube.com/shorts/33YEtj3VtsA",
       "title": {
-        "en": "How to: Use Lens Correction",
-        "de": "How to: Linsenkorrektur verwenden",
-        "es": "How to: Usar la corrección de lente",
-        "fr": "How to: Utiliser la correction d'objectif",
-        "it": "How to: Usare la correzione dell'obiettivo",
-        "ja": "How to: レンズ補正を使う",
-        "nl": "How to: Lenscorrectie gebruiken",
-        "pt": "How to: Usar a correção de lente"
+        "en": "Use Lens Correction",
+        "de": "Linsenkorrektur verwenden",
+        "es": "Usar la corrección del objetivo",
+        "fr": "Utiliser la correction d'objectif",
+        "it": "Usare la correzione dell'obiettivo",
+        "ja": "レンズ補正を使う",
+        "nl": "Lenscorrectie gebruiken",
+        "pt": "Usar a correção de lente"
       }
     },
     {
-      "id": "howto_card_curvature",
+      "id": "howto_curvature_correction",
       "group": "howto",
-      "phases": [1],
-      "order": 60,
+      "phases": [
+        1
+      ],
+      "order": 70,
       "url": "",
       "title": {
-        "en": "How to: Correct Card Curvature",
-        "de": "How to: Kartenwölbung korrigieren",
-        "es": "How to: Corregir la curvatura de la carta",
-        "fr": "How to: Corriger la courbure de la carte",
-        "it": "How to: Correggere la curvatura della carta",
-        "ja": "How to: カードの反りを補正する",
-        "nl": "How to: Kaartkromming corrigeren",
-        "pt": "How to: Corrigir a curvatura da carta"
+        "en": "Use Curvature Correction",
+        "de": "Krümmungskorrektur verwenden",
+        "es": "Usar la corrección de curvatura",
+        "fr": "Utiliser la correction de courbure",
+        "it": "Usare la correzione della curvatura",
+        "ja": "反りの補正を使う",
+        "nl": "Krommingscorrectie gebruiken",
+        "pt": "Usar a correção de curvatura"
+      }
+    },
+    {
+      "id": "howto_define_border",
+      "group": "howto",
+      "phases": [
+        1,
+        2
+      ],
+      "order": 80,
+      "url": "",
+      "title": {
+        "en": "Define the Border",
+        "de": "Rahmen definieren",
+        "es": "Definir el marco",
+        "fr": "Définir le cadre",
+        "it": "Definire la cornice",
+        "ja": "枠を設定する",
+        "nl": "Kader bepalen",
+        "pt": "Definir a moldura"
+      }
+    },
+    {
+      "id": "howto_adjust_border",
+      "group": "howto",
+      "phases": [
+        1,
+        2
+      ],
+      "order": 90,
+      "url": "",
+      "title": {
+        "en": "Adjust the Border",
+        "de": "Rahmen anpassen",
+        "es": "Ajustar el marco",
+        "fr": "Ajuster le cadre",
+        "it": "Regolare la cornice",
+        "ja": "枠を調整する",
+        "nl": "Kader aanpassen",
+        "pt": "Ajustar a moldura"
       }
     },
     {
       "id": "howto_four_corner_mode",
       "group": "howto",
-      "phases": [1],
-      "order": 70,
+      "phases": [
+        1
+      ],
+      "order": 100,
       "url": "",
       "title": {
-        "en": "How to: Use 4 Corner Mode",
-        "de": "How to: 4-Ecken-Modus verwenden",
-        "es": "How to: Usar el modo de 4 esquinas",
-        "fr": "How to: Utiliser le mode 4 coins",
-        "it": "How to: Usare la modalità 4 angoli",
-        "ja": "How to: 4コーナーモードを使う",
-        "nl": "How to: 4-hoekenmodus gebruiken",
-        "pt": "How to: Usar o modo de 4 cantos"
+        "en": "Use 4-Corner Mode",
+        "de": "4-Eckenmodus verwenden",
+        "es": "Usar el modo 4 esquinas",
+        "fr": "Utiliser le mode 4 coins",
+        "it": "Usare la modalità 4 angoli",
+        "ja": "4コーナーモードを使う",
+        "nl": "4-hoekenmodus gebruiken",
+        "pt": "Usar o modo de 4 cantos"
       }
     },
     {
       "id": "howto_card_template",
       "group": "howto",
-      "phases": [1],
-      "order": 80,
-      "url": "",
+      "phases": [
+        1
+      ],
+      "order": 110,
+      "url": "https://www.youtube.com/shorts/0a00fqYoGWY",
       "title": {
-        "en": "How to: Create a Card Template",
-        "de": "How to: Kartenvorlage erstellen",
-        "es": "How to: Crear una plantilla de carta",
-        "fr": "How to: Créer un modèle de carte",
-        "it": "How to: Creare un modello di carta",
-        "ja": "How to: カードテンプレートを作成する",
-        "nl": "How to: Kaartsjabloon maken",
-        "pt": "How to: Criar um modelo de carta"
+        "en": "Create a Card Template",
+        "de": "Kartenvorlage erstellen",
+        "es": "Crear una plantilla de carta",
+        "fr": "Créer un modèle de carte",
+        "it": "Creare un modello di carta",
+        "ja": "カードテンプレートを作成する",
+        "nl": "Kaartsjabloon maken",
+        "pt": "Criar um modelo de carta"
+      }
+    },
+    {
+      "id": "gettingstarted_reconstruct_card_side",
+      "group": "getting_started",
+      "phases": [
+        1,
+        2
+      ],
+      "order": 10,
+      "url": "https://www.youtube.com/watch?v=5SB4WfGX3L4",
+      "title": {
+        "en": "Reconstruct a Card Side",
+        "de": "Kartenseite rekonstruieren",
+        "es": "Reconstruir una cara de la carta",
+        "fr": "Reconstruire une face de la carte",
+        "it": "Ricostruire un lato della carta",
+        "ja": "カードの片面を再構成する",
+        "nl": "Een kaartzijde reconstrueren",
+        "pt": "Reconstruir um lado da carta"
       }
     }
   ]

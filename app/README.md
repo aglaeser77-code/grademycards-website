@@ -28,8 +28,12 @@ Ein Video-Eintrag:
             4 Reports, 5 Corners, 6 Edges, 7 Surface
             Mehrfachnennung ist erlaubt (z. B. [1, 2]).
     order   Sortierung innerhalb der Gruppe
-    url     Volle YouTube-URL. LEER = Eintrag wird von der App ignoriert.
+    url     Volle YouTube-URL (Shorts gehen auch). LEER = Eintrag wird von
+            der App ignoriert; so stehen geplante Videos schon hier drin.
     title   Titel je Sprachcode. Fehlt die Sprache, nimmt die App "en".
+            OHNE Serien-Prefix ("How to - ", "Getting Started - "): das
+            steht schon in der Gruppenueberschrift darueber, und die ist
+            uebersetzt. Auf YouTube bleibt das Prefix natuerlich im Titel.
 
 ### Ein Video ergänzen
 
