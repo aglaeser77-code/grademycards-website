@@ -330,6 +330,44 @@
         "nl": "Kaartsjabloon maken",
         "pt": "Criar um modelo de carta"
       }
+    },
+    {
+      "id": "howto_asymmetric_borders",
+      "group": "howto",
+      "phases": [
+        2
+      ],
+      "order": 140,
+      "url": "https://www.youtube.com/shorts/YxQcEafeXa0",
+      "title": {
+        "en": "Calculate Centering of Asymmetric Borders (Ultra)",
+        "de": "Zentrierung bei asymmetrischem Rahmen berechnen (Ultra)",
+        "es": "Calcular el centrado con marcos asimétricos (Ultra)",
+        "fr": "Calculer le centrage avec un cadre asymétrique (Ultra)",
+        "it": "Calcolare la centratura con cornici asimmetriche (Ultra)",
+        "ja": "非対称な枠のセンタリングを計算する（Ultra）",
+        "nl": "Centrering berekenen bij een asymmetrisch kader (Ultra)",
+        "pt": "Calcular a centralização com molduras assimétricas (Ultra)"
+      }
+    },
+    {
+      "id": "howto_asymmetric_borders_guidelines",
+      "group": "howto",
+      "phases": [
+        2
+      ],
+      "order": 150,
+      "url": "https://www.youtube.com/shorts/sOB_apGXyNw",
+      "title": {
+        "en": "Calculate Centering of Asymmetric Borders with Guidelines",
+        "de": "Zentrierung bei asymmetrischem Rahmen mit Hilfslinien berechnen",
+        "es": "Calcular el centrado con marcos asimétricos usando líneas guía",
+        "fr": "Calculer le centrage avec un cadre asymétrique à l'aide des lignes de repère",
+        "it": "Calcolare la centratura con cornici asimmetriche usando le linee guida",
+        "ja": "ガイドラインで非対称な枠のセンタリングを計算する",
+        "nl": "Centrering berekenen bij een asymmetrisch kader met hulplijnen",
+        "pt": "Calcular a centralização com molduras assimétricas usando linhas-guia"
+      }
     }
   ]
 }
