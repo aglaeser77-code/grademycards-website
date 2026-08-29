@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-08-28",
+  "updated": "2026-08-29",
   "channel": "https://www.youtube.com/@grademycards",
   "groups": [
     {
@@ -61,6 +61,26 @@
     }
   ],
   "videos": [
+    {
+      "id": "gettingstarted_reconstruct_card_side",
+      "group": "getting_started",
+      "phases": [
+        1,
+        2
+      ],
+      "order": 10,
+      "url": "https://www.youtube.com/watch?v=5SB4WfGX3L4",
+      "title": {
+        "en": "Reconstruct a Card Side",
+        "de": "Kartenseite rekonstruieren",
+        "es": "Reconstruir una cara de la carta",
+        "fr": "Reconstruire une face de la carte",
+        "it": "Ricostruire un lato della carta",
+        "ja": "カードの片面を再構成する",
+        "nl": "Een kaartzijde reconstrueren",
+        "pt": "Reconstruir um lado da carta"
+      }
+    },
     {
       "id": "howto_create_new_card",
       "group": "howto",
@@ -254,12 +274,51 @@
       }
     },
     {
-      "id": "howto_card_template",
+      "id": "howto_4c_centering_part1",
       "group": "howto",
       "phases": [
         1
       ],
       "order": 110,
+      "url": "https://www.youtube.com/watch?v=NGzeM9UjvBw",
+      "title": {
+        "en": "Calculate Centering in 4-Corner Mode (Part 1: Set Card Edges)",
+        "de": "Zentrierung im 4-Eckenmodus berechnen (Teil 1: Kartenkanten setzen)",
+        "es": "Calcular el centrado en el modo 4 esquinas (Parte 1: definir los bordes de la carta)",
+        "fr": "Calculer le centrage en mode 4 coins (Partie 1 : placer les bords de la carte)",
+        "it": "Calcolare la centratura nella modalità 4 angoli (Parte 1: impostare i bordi della carta)",
+        "ja": "4コーナーモードでセンタリングを計算する（パート1: カードの辺を設定）",
+        "nl": "Centrering berekenen in de 4-hoekenmodus (Deel 1: kaartranden instellen)",
+        "pt": "Calcular a centralização no modo de 4 cantos (Parte 1: definir as bordas da carta)"
+      }
+    },
+    {
+      "id": "howto_4c_centering_part2",
+      "group": "howto",
+      "phases": [
+        1,
+        2
+      ],
+      "order": 120,
+      "url": "https://www.youtube.com/watch?v=ugAV2yodu-Q",
+      "title": {
+        "en": "Calculate Centering in 4-Corner Mode (Part 2: Set Border Edges)",
+        "de": "Zentrierung im 4-Eckenmodus berechnen (Teil 2: Rahmenkanten setzen)",
+        "es": "Calcular el centrado en el modo 4 esquinas (Parte 2: definir los bordes del marco)",
+        "fr": "Calculer le centrage en mode 4 coins (Partie 2 : placer les bords du cadre)",
+        "it": "Calcolare la centratura nella modalità 4 angoli (Parte 2: impostare i bordi della cornice)",
+        "ja": "4コーナーモードでセンタリングを計算する（パート2: 枠の辺を設定）",
+        "nl": "Centrering berekenen in de 4-hoekenmodus (Deel 2: kaderranden instellen)",
+        "pt": "Calcular a centralização no modo de 4 cantos (Parte 2: definir as bordas da moldura)"
+      }
+    },
+    {
+      "id": "howto_card_template",
+      "group": "howto",
+      "phases": [
+        1
+      ],
+      "order": 130,
       "url": "https://www.youtube.com/shorts/0a00fqYoGWY",
       "title": {
         "en": "Create a Card Template",
@@ -270,26 +329,6 @@
         "ja": "カードテンプレートを作成する",
         "nl": "Kaartsjabloon maken",
         "pt": "Criar um modelo de carta"
-      }
-    },
-    {
-      "id": "gettingstarted_reconstruct_card_side",
-      "group": "getting_started",
-      "phases": [
-        1,
-        2
-      ],
-      "order": 10,
-      "url": "https://www.youtube.com/watch?v=5SB4WfGX3L4",
-      "title": {
-        "en": "Reconstruct a Card Side",
-        "de": "Kartenseite rekonstruieren",
-        "es": "Reconstruir una cara de la carta",
-        "fr": "Reconstruire une face de la carte",
-        "it": "Ricostruire un lato della carta",
-        "ja": "カードの片面を再構成する",
-        "nl": "Een kaartzijde reconstrueren",
-        "pt": "Reconstruir um lado da carta"
       }
     }
   ]
